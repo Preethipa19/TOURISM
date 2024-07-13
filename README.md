@@ -58,8 +58,8 @@ map.html
 contact.html
 image
 
+index.html
 
-## INDEX.html
 <html>
 <head> 
 <title>KERALA-MUNNAR</title>
