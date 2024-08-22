@@ -1,6 +1,6 @@
 # TOURISM
 
-# Munnar Tourism Website
+## Munnar Tourism Website
 
 This is a simple HTML website showcasing the beauty and attractions of Munnar, Kerala. The website provides information about Munnar, images, packages, maps, and contact details.
 
